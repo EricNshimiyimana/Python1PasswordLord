@@ -2,7 +2,7 @@
 
 This is a Python application that allows a user to generate and store passwords for various accounts 
 ### BY  
-UWINEZA NADINE
+Eric Nshimiyimana
 
 ### Description
 This an application that will help us manage our passwords and even generate new passwords for us.
@@ -17,8 +17,7 @@ As a user I would like:
 
 ### Clonning
 * Open Terminal {Ctrl+Alt+T}
-* git clone https://github.com/nadineuwineza/PASSWORD_LOCKER.git
-* cd PASSWORD_LOCKER
+* git clone 
 * code . to open in visual studio code.
 
 ### Running the Application
@@ -34,7 +33,7 @@ Python3.8
 * There are no known bugs at the moment
 
 ### Contact and Support
-In case you have any issue on this project feel free to reach out to me (nadineuwineza2017@gmail.com). Also feel free to make contribtion to the code.
+In case you have any issue on this project feel free to reach out to me (nericmpc@gmail.com). Also feel free to make contribtion to the code.
 
 ### Setup/Installation Requirements
 ### The application requires the following installations to operate
@@ -42,10 +41,10 @@ In case you have any issue on this project feel free to reach out to me (nadineu
 * pip
 
 ### Link
-https://github.com/nadineuwineza/PASSWORD_LOCKER.git
+
 
 
 
 ### License
  MIT licence
- copyright(c) 2020 Uwineza Nadine
+ copyright(c) 2021 Eric Nshimiyimana
