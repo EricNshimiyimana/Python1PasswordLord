@@ -7,7 +7,6 @@ Eric Nshimiyimana
 ### Description
 This an application that will help us manage our passwords and even generate new passwords for us.
 
-
 ### User Stories
 As a user I would like:
 * To create a password locker account with my details, a login username and password.
