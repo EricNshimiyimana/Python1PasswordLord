@@ -18,6 +18,7 @@ class Credentials:
         """
         Created the class credentials and initialized using the self keyword
         """
+        
     def my_credentials():
         print("Choose one of the following options to continue")
         print("\n1. Create new credentials \n2. Store credentials of existing accounts \n3. View existing credentials \n4. Logout")
