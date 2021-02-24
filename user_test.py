@@ -22,5 +22,4 @@ class TestUser(unittest.TestCase):
         self.assertTrue(self.new_user.password, 'nana')  
 
 if __name__ == '__main__':
-    unittest.main()        
-    
+    unittest.main() 
