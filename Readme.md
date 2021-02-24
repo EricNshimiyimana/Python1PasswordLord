@@ -4,6 +4,8 @@ This is a Python application that allows a user to generate and store passwords 
 ### BY  
 Eric Nshimiyimana
 
+
+
 ### Description
 This an application that will help us manage our passwords and even generate new passwords for us.
 
