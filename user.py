@@ -105,7 +105,6 @@ class Users:
         return ''.join(random.choice(password) for i in range(int(stringLength)))  
 
 
-
 class Main:
 
     user1 = Users("user", "1234")
