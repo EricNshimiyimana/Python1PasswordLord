@@ -37,10 +37,7 @@ In case you have any issue on this project feel free to reach out to me (nericmp
 ### The application requires the following installations to operate
 * python3.8
 * pip
-
-### Link
-
-
+* 
 ### License
  MIT licence
  copyright(c) 2021 Eric Nshimiyimana
