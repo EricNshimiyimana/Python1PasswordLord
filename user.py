@@ -48,7 +48,6 @@ class Credentials:
         elif credentials_option == "3":
             Users.view_credentials()
 
-
 class Users:
 
     def __init__(self, username, password):
