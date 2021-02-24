@@ -24,7 +24,6 @@ As a user I would like:
 * $ python3 user.py
 * To run test for the application $ python3 user_test.py
 
-
 ### Technologies Used
 Python3.8
 
